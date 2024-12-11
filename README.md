@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/d1b25fd2-a73c-4d5c-9b69-f0f5430e9fbe)
 
+[Latest version (click!)](https://github.com/CarageaAndrei/blackswipe-valorant/releases/download/release/Release.zip)
+
 ## Features:
 ### Aimb0t
 - Aim FOV
